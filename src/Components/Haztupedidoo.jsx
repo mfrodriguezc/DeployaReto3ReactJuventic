@@ -38,7 +38,7 @@ const estilos = {
                                         <div className="media col-sm-9">
                                             <img src={Menu1} alt="Costillas Kosher" style={{ paddingRight: '40px' }} width="240px" height="150px" />
                                             <div className="media-body">
-                                                <h4 className="display-5"><strong>Costillas Kosher</strong></h4>
+                                                <h4 className="display-5"><strong>Costillas Kosher --</strong></h4>
                                                 <p className="text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima sit fugit ad delectus at
                                                     consequuntur quas ullam quisquam, unde architecto necessitatibus deleniti ea quaerat facilis?
                                                     Expedita neque quia magnam omnis!</p>
